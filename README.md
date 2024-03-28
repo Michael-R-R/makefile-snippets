@@ -1,2 +1,2 @@
-# makefile-snippets
-makefile snippets
+# Description
+Collection of makefile snippets for reference purposes.
